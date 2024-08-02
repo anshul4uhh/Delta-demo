@@ -18,3 +18,5 @@ Anshul shrivastava
 # commit -- it is record of change syntax -- (git commit -m "some message")
 
 # push -- upload local repo content to the remote repo. syntax ( git push origin main)
+
+# init -- upload local repoto the remote repo. syntax (git init)
