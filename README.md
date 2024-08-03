@@ -34,3 +34,7 @@ Anshul shrivastava
 # to create new branch we use syntax (git checkout -b <branch name>)
 
 # to delete branch we use syntax (git branch -d <branch-name>)
+
+# to pull the data from remote to local we use syntax ( git pull origin main )
+
+# to save the data from differ origin we use syntax ( git push --set-upstream origin <branch>)
