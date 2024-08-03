@@ -20,3 +20,11 @@ Anshul shrivastava
 # push -- upload local repo content to the remote repo. syntax ( git push origin main)
 
 # init -- upload local repoto the remote repo. syntax (git init)
+
+# to add remote origin we use syntax ( git remote add origin  <link>)
+
+# to verify remote we use syntax ( git remote -v)
+
+# to check branch we use syntax ( git branch )
+
+# to rename branch we use syntax ( git branch - M main)
