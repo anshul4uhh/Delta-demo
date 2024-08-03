@@ -38,3 +38,15 @@ Anshul shrivastava
 # to pull the data from remote to local we use syntax ( git pull origin main )
 
 # to save the data from differ origin we use syntax ( git push --set-upstream origin <branch>)
+
+# fixing mistakes:
+
+case 1: staged changes---- git reset or git reset <file>
+
+case 2: commit changes for 1 commit: git reset HEAD~1
+
+case 3 : commit changes for many commits
+
+git reset <commit hash>
+
+git reset --hard <commit hash>
