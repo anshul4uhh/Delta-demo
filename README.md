@@ -28,3 +28,9 @@ Anshul shrivastava
 # to check branch we use syntax ( git branch )
 
 # to rename branch we use syntax ( git branch - M main)
+
+# to navigate to the branch we use syntax ( git checkout <branch>)
+
+# to create new branch we use syntax (git checkout -b <branch name>)
+
+# to delete branch we use syntax (git branch -d <branch-name>)
